@@ -209,41 +209,6 @@
       "age": 31,
       "department": "Marketing",
       "salary": 65000
-    },
-    {
-      "id": "31",
-      "name": "William Davis",
-      "age": 33,
-      "department": "Sales",
-      "salary": 85000
-    },
-    {
-      "id": "32",
-      "name": "Sophia Hernandez",
-      "age": 27,
-      "department": "Finance",
-      "salary": 75000
-    },
-    {
-      "id": "33",
-      "name": "Liam Moore",
-      "age": 34,
-      "department": "Engineering",
-      "salary": 80000
-    },
-    {
-      "id": "34",
-      "name": "Emma Taylor",
-      "age": 26,
-      "department": "Marketing",
-      "salary": 60000
-    },
-    {
-      "id": "35",
-      "name": "Oliver White",
-      "age": 30,
-      "department": "Sales",
-      "salary": 90000
     }
   ]
 }
